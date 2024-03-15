@@ -1,1 +1,1 @@
-# sqor-tech-interview
+# SQOR Tech Project

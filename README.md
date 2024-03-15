@@ -1,0 +1,1 @@
+# sqor-tech-interview
